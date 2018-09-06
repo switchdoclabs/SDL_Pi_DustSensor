@@ -25,7 +25,7 @@ Install pigio as follows:
 sudo apt-get update
 sudo apt-get install pigpio python-pigpio python3-pigpio
 </pre>
-<img src="http://www.switchdoc.com/wp-content/uploads/2018/09/IMG_7366.jpg" alt="Pi2Grover and Grove Dust Sesnor " width="500" >
+<img src="http://www.switchdoc.com/wp-content/uploads/2018/09/IMG_7366.jpg" alt="Pi2Grover and Grove Dust Sesnor "  >
 
 -----------------<BR>
 Testing<BR>
